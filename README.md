@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
+  <img src="932fd00d9b43753061c47739f0cc777b.gif" width="30px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>

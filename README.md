@@ -15,4 +15,4 @@
                        Insta id- [@_swapnil_pvt_03](https://www.instagram.com/_swapnil_pvt_03/)
 - ✔️ HackerRank: [Swapnil_Shivpuje](https://www.hackerrank.com/swapnilshivpuje)                   
 - 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: Never stop learning, cause life never stops teaching❤.
+- ⚡ Fun fact: Never stop learning, cause life never stops teaching❤

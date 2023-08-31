@@ -13,7 +13,6 @@
 - 💬 I'm intrested in handling new AI Tools .
 - 📫 How to reach me: Whatsapp- +918459615960 Insta id- [@_swapnil_pvt_03](https://www.instagram.com/_swapnil_pvt_03/)
 - ✔️ HackerRank: [Swapnil_Shivpuje](https://www.hackerrank.com/swapnilshivpuje)                   
-- 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: Never stop learning, cause life never stops teaching❤
 
 ![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamswapnil22&show_icons=true&theme=radical)

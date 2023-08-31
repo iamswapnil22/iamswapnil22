@@ -16,5 +16,4 @@
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: Never stop learning, cause life never stops teaching❤
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamswapnil22&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsawpnil22&show_icons=true&theme=radical)

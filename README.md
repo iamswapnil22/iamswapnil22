@@ -17,5 +17,6 @@
 - ⚡ Fun fact: Never stop learning, cause life never stops teaching❤
 
 ![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamswapnil22&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamswapnil22&layout=donut)
 

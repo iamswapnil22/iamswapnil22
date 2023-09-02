@@ -19,3 +19,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamswapnil22&layout=donut)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iamswapnil22)](https://git.io/streak-stats)
+

@@ -18,11 +18,11 @@
  
 <br/>
 <br/>
- 
+
 ![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamswapnil22&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamswapnil22&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamswapnil22&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iamswapnil22)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iamswapnil22&theme=highcontrast)](https://git.io/streak-stats)
 
 </div>

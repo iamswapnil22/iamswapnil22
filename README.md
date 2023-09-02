@@ -14,14 +14,10 @@
 - 📫 How to reach me: Whatsapp- +918459615960 Insta id- [@_swapnil_pvt_03](https://www.instagram.com/_swapnil_pvt_03/)
 - ✔️ HackerRank: [Swapnil_Shivpuje](https://www.hackerrank.com/swapnilshivpuje)                   
 - ⚡ Fun fact: Never stop learning, cause life never stops teaching❤
-<div align = 'center'>
+<div align="right">
  
-<br/>
-<br/>
-
-![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamswapnil22&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamswapnil22&layout=compact)
+<br>
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=iamswapnil22&theme=highcontrast)](https://git.io/streak-stats)
 

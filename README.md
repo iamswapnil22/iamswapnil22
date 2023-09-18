@@ -14,6 +14,8 @@
 - ✔️ HackerRank: [Swapnil_Shivpuje](https://www.hackerrank.com/swapnilshivpuje)                   
 - ⚡ Fun fact: Never stop learning, cause life never stops teaching❤
 
+    ![](https://komarev.com/ghpvc/?username=iamswapnil22&color=brightgreen)
+
 <br/>
 <div align="center">
 

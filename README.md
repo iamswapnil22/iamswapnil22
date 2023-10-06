@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Machine Learning.
 - 🌱 I’m currently learning ML Models.
-- 💬 I'm intrested in handling new AI Tools .
+- 💬 I'm interested in handling new AI Tools.
 - 📫 How to reach me: Whatsapp- +918459615960 Insta id- [@_swapnil_pvt_03](https://www.instagram.com/_swapnil_pvt_03/)
 - ✔️ HackerRank: [Swapnil_Shivpuje](https://www.hackerrank.com/swapnilshivpuje)                   
 - ⚡ Fun fact: Never stop learning, cause life never stops teaching❤

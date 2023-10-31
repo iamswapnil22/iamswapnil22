@@ -21,7 +21,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iamswapnil22)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iamswapnil22&theme=javascript-dark)](https://git.io/streak-stats)
 
 <br/>
 </div>

@@ -5,7 +5,15 @@
 
 <br/>
 <br/>
-<img align="right" height="250" width="380" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1F51FF&size=29&multiline=true&width=700&lines=Welcome+To+Swapnil's+GitHub+Profile)](https://git.io/typing-svg)
+
+<img align="right" height="250" width="250" alt="GIF" src="https://github.com/luis-gustavoj/luis-gustavoj/blob/main/images/message.gif"/>
 
 - 🔭 I’m currently working on Machine Learning.
 - 🌱 I’m currently learning ML Models.
@@ -19,11 +27,29 @@
 <br/>
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=iamswapnil22)
+ <h2> <strong> My Github Stats </strong> <img src="borderseperator.gif"></h2>
+  <br> <br>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamswapnil22&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamswapnil22&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <br/>
+
+<br>
+<br>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=iamswapnil22&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
+<br>
+<br>
+
+<br/>
+
+[![Swapnil's Github Activity Graph](https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=iamswapnil22&custom_title=Swapnil's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 </div>
+
+
 

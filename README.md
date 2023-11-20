@@ -7,13 +7,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="/cover-thompson.png" />
 </p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1F51FF&size=29&multiline=true&width=700&lines=Welcome+To+Swapnil's+GitHub+Profile)](https://git.io/typing-svg)
 
-<img align="right" height="250" width="250" alt="GIF" src="https://github.com/luis-gustavoj/luis-gustavoj/blob/main/images/message.gif"/>
+<img align="right" height="250" width="250" alt="GIF" src="/message.gif"/>
 
 - 🔭 I’m currently working on Machine Learning.
 - 🌱 I’m currently learning ML Models.
@@ -32,10 +32,6 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamswapnil22&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-<br/>
-
-<br/>
 
 <br>
 <br>

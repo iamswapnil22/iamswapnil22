@@ -48,6 +48,6 @@
 </div>
 
 
-[![An image of @iamswapnil22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jonascarvalh)](https://holopin.io/@jonascarvalh)
+[![An image of @iamswapnil22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamswapnil22)](https://holopin.io/@iamswapnil22)
 
 

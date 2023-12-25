@@ -14,8 +14,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=24&pause=1000&color=FFD700&random=false&width=435&lines=Welcome+to+Swapnil's+GitHub+Profile)](https://git.io/typing-svg)
-
-<img align="right" height="280" width="180" alt="GIF" src="/giphy (1).gif"/>
+<img align="right" height="300" width="200" alt="GIF" src="/giphy (1).gif"/>
 
 
 
